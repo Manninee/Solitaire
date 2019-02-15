@@ -1,0 +1,10 @@
+Pasianssi.
+Tarkoitus saada jokainen maa omaan ylärivissä olvaan pinoon järjestyksessä
+pienimmästä suurimpaan. Kortteja raahataan pinosta toiseen, kortit voi laitta
+alarivin pinoihin kun laitettava kortti on erivärinen ja piemipi numeroinen
+kuin pinossa jo oleva kortti. Kortteja siirretään suljetusta pakasta avoimeen
+pakkaan klikkaamalla suljettua pakkaa, kun suljetunpakan kortit loppuvat
+avoimen pakan kortit saa palautettua  suljettuun pakkaan kaksoiskilikkaamalla
+tyhjää suljettua pakkaa. Peli on voitettu kun kaikki 52 kortia on neljässä
+ylärivin pinossa ja peli antaa voiton merkiksi ilmoituksen ja kertoo kuinka
+kauan voittamiseen kului aikaa.
